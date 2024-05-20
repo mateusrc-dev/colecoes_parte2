@@ -1,0 +1,1 @@
+# Exercício do curso desenvolvedor fullstack JAVA da EBAC. Criamos uma lista de alunos do sexo masculino e feminino usando a classe ArrayList e capturando o que o usuário digitou no console usando a classe Scanner.
